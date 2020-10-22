@@ -1,0 +1,21 @@
+body {
+    display: block;
+    margin: auto;
+    width: 25%;
+    background-color: #bd5d38;
+}
+
+img {
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+    border: 100px;
+    vertical-align: middle;
+}
+
+.bodes { 
+    color: white;
+}
+

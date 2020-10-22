@@ -1,0 +1,40 @@
+--- # MiniProyecto CV
+fotografia: "profile.jpg"
+informacion_pagina: 
+    autor: Cruz del Cid 
+    titulo: Mi CV 
+informacion_personal:
+    nombres: Cruz Leonel
+    apellidos: del Cid Castro
+    pais_de_nacimiento: Guatemala 
+    idiomas:
+        - Español
+        - Inglés
+    edad: 17
+    acerca_de_mi: Me encanta crear cosas desde cero, aprender los fudamentos de las teconlogías y manipularlos a mi antojo para optimizar y crear herramientas impresionantes que faciliten tareas y así faciliten la vida de sus usuarios. También siempre he tenido una pasión muy grande por enteneder el mundo que me rodea, y desde mi primer interacción con una computadora encontré un mundo nuevo para explorar. Mi objetivo es ser un hacker. 
+    experiencia: Computer Science
+    intereses:
+        - Tenología
+        - Ciencias 
+        - Volleyball 
+        - Calistenia
+        - Matemáticas
+    correo: cldelcid@ufm.edu
+informacion_profesional:
+    tecnologias: 
+        - Web design (HTML, CSS, Flask)
+        - Python
+        - Java 
+        - C y C#
+    educacion: Universidad Francisco Marroquín
+informacion_referencias:
+    referencias_laborales: 
+        - "Cementos Progreso: 2338 9100" 
+        - "Cervecería Centroamericana: 1801 237 8392"
+        - Referencia 3
+        - Referencia 4
+    referencia_personal: 
+        - Referencia 1
+        - Referencia 2
+        - Referencia 3
+        - Referencia 4
